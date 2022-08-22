@@ -1,0 +1,10 @@
+[package]
+name = "protocol"
+version = "0.1.0"
+edition = "2021"
+authors = ["K-do"]
+
+[dependencies]
+lazy_static = "1.4.0"
+fancy-regex = "0.10.0"
+argon2 = "0.4.0"
